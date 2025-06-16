@@ -101,7 +101,8 @@ header nav li {
   gap: 1rem;
 }
 .registration-btns button {
-  padding: 0.5rem 7rem;
+  padding: 0.5rem 6rem;
+
   border-radius: 25px;
   font-size: 1rem;
 }
